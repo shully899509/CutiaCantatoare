@@ -1,0 +1,1 @@
+>pyinstaller --onefile --paths D:\github\CutiaCantatoare\venv\Lib\site-packages cantama.py --hidden-import _cffi_backend
